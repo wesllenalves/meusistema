@@ -1,0 +1,15 @@
+{
+    "name": "nwidart/pagseguro",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pagseguro\\Pagseguro\\": ""
+        }
+    }
+}

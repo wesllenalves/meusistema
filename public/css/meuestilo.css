@@ -1,0 +1,52 @@
+#espaçamentoinicial {
+    height: 400px;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    width: 400px;
+}
+
+#espaçamentoinicial_criar {
+    height: 400px;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    width: 400px;
+    margin-bottom: 200px;
+}
+
+.form_user_new {
+    ruby-align: center;
+    width: 400px;
+    margin-left: 1%;
+    margin-bottom: 2px;
+}
+
+.form_user_new input {
+    margin-bottom: 5px;
+}
+
+.form_user_login {
+    width: 200px;
+    margin-left: 10%;
+    margin-top: 15%;
+}
+
+.form_user_login input {
+    margin-bottom: 3px;
+    width: 300px;
+}
+
+.botão-center {
+    margin-left: 25%;
+    width: 200px;
+    padding-bottom: 10px;
+}
+
+.form_user_login button {
+    margin-top: 10px;
+    margin-left: 12%;
+}
+
+.titulo_erro {
+    width: 100px;
+    font-weight: bolder;
+}
